@@ -1,6 +1,6 @@
 ## Exploratory Data Analysis on Titanic Dataset
 
-100-python-projects-data-analysis/Basic Data Analysis Projects/01_exploratory_data_analysis_on_titanic_dataset/titanic ship.avif
+
 
 ## Objective
 The Titanic - Machine Learning from Disaster Competition is the most known problem that beginners attempt to solve in both Machine Learning and Data Science. This competition wants the participants to predict whether a passanger survived the ship wreck. In order to make these predictions, we are provided with both training and testing datasets for which we will appy data exploration and preprocessing techniques in order to reach our end goal.
