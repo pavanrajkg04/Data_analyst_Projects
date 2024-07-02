@@ -1,9 +1,21 @@
 ## Exploratory Data Analysis on Titanic Dataset
+
+100-python-projects-data-analysis/Basic Data Analysis Projects/01_exploratory_data_analysis_on_titanic_dataset/titanic ship.avif
+
 ## Objective
-The objective of this project is to perform exploratory data analysis on the Titanic dataset to uncover patterns and insights regarding passenger survival based on various attributes.
+The Titanic - Machine Learning from Disaster Competition is the most known problem that beginners attempt to solve in both Machine Learning and Data Science. This competition wants the participants to predict whether a passanger survived the ship wreck. In order to make these predictions, we are provided with both training and testing datasets for which we will appy data exploration and preprocessing techniques in order to reach our end goal.
 
 ## Dataset
-The Titanic dataset contains information about passengers aboard the Titanic, including demographics, ticket class, cabin, fare, and survival status.
+survival - Indicates if the passenger survived the ship wreck, it is our target variable (the variable we will be predicting).
+pclass - Indicates the socio-economic status of the given passanger (1st = Upper, 2nd = Middle, 3rd = Lower).
+sex - Male or Female.
+Age - The age of the passenger.
+sibsp - The number of siblings / spouses of the passanger that are on-board.
+parch - The number of parents / children that are on-board.
+ticket - Ticket number, which is the unique identifier of each passanger.
+fare - How much the passanger has paid in total.
+cabin - The cabin number of the passanger.
+Embarked - Which port the passanger embarked from (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 ## Methodology
 Data Loading: Load the Titanic dataset using Python's pandas library.
